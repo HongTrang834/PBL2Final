@@ -1,0 +1,5 @@
+Use the direction key to move the snake
+Use the Space key to pause the game,
+if you want to continue, press the Space key
+Use the X key to exit the game
+
